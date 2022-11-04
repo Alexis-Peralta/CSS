@@ -1,0 +1,20 @@
+
+*{
+    background-color: LemonChiffon;
+    }
+    
+    h1{
+        text-align: center;
+    }
+    
+    .punteado{
+        border-style: dashed;
+        border-width: 20px;
+        border-color: aqua rebeccapurple blue greenyellow;
+        border-radius: 10px;
+    }
+
+    
+    .surco{
+        border: 10px ridge;
+    }

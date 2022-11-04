@@ -1,0 +1,13 @@
+Existen otros selectores como 
+
+*{
+ 
+}
+
+y 
+
+body{
+    
+}
+
+Lo que hacen es seleccionar todos los elementos en un documento.

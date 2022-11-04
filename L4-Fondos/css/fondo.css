@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(246, 234, 255);
+    color: rgb(0, 0, 0);
+    background-image: url("/Leccion 4/img/1.JPG");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed ;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(99, 99, 185);
+    color: azure;
+}

@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  color: blue;
+}
+
+div.contenedor{
+  width: 80%;
+  height: 20%;
+  overflow: auto;
+  margin: auto;
+  border: 3px darkslateblue dashed;
+}

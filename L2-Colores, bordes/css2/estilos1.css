@@ -1,0 +1,28 @@
+
+*{
+background-color: LemonChiffon;
+}
+
+h1{
+    text-align: center;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.rosa{
+    background-color: PeachPuff;
+}
+
+.negro{
+    background-color: black;
+}
+
+.morado{
+    background-color: MediumSlateBlue;
+}
+
+.rojo, .rosa, .negro{
+    color: mediumaquamarine;
+}

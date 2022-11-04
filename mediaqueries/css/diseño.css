@@ -1,0 +1,23 @@
+    @media screen and (max-width: 1920px){
+    body{
+        background-color: crimson;
+        color: azure;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 900px){
+    body{
+        background-color: rgb(63, 20, 220);
+        color: azure;
+        text-align: end;
+    }
+}
+
+@media screen and (max-width: 800px){
+    body{
+        background-color: rgb(220, 183, 20);
+        color: azure;
+        text-align: left;
+    }
+}

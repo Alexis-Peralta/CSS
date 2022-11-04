@@ -1,0 +1,24 @@
+
+*{
+    background-color: LemonChiffon;
+    }
+    
+    h1{
+        text-align: center;
+    }
+    
+    .rojo{
+        border: 10px solid red;
+    }
+    
+    .rosa{
+        border: 10px dashed palevioletred;  
+    }
+    
+    .negro{
+        border: 10px double black; 
+    }
+    
+    .morado{
+        border: 10px dotted violet;
+    }
