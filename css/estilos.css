@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+    margin: 20px;
+}
+
+header{
+    background-color: rgb(255, 241, 42);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedor-main{
+    margin-bottom: 20px;
+}
+
+.titmain{
+    text-align: center;
+}
+
+main{
+    background: #fff;
+    color: darkcyan;
+    padding: 20px 0;
+}
+
+aside{
+    color: #ffff;
+    padding: 60px 0;
+    background-color:darkgray;
+}
+
+.widgets{
+    color: darkgray;
+    margin-bottom: 20px;
+}
+
+.widgets > div{
+    background-color:cornflowerblue ;
+    color: #fff;
+    padding: 20px;
+}
+
+footter{
+    padding: 20px 0;
+    background-color: black;
+    color: #fff;
+}
